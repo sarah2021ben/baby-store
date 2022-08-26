@@ -1,0 +1,15 @@
+.footer{
+    background-color: #969286;
+    width: 100%;
+    padding: 40px;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+.footer span{
+    margin-left: 5px;
+}
+.footer .siteurl a{
+    color: #fff !important;
+    text-decoration: none;
+}

@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "company": "ZARA",
+      "image": "./assets/images/produits/Sheep_Knit_Sweater.jpg",
+      "name": "Sheep Knit Sweater",
+      "category": "baby girl",
+      "color": "white",
+      "price": "12.99",
+      "description": "Long sleeve knit sweater with a round neckline. Button fastening on the shoulder.",
+      "material": "Cotton",
+      "Age": "1-2Y"
+      
+    },
+    {
+      "id": 2,
+      "company": "Calvin Klein",
+      "image": "./assets/images/produits/Contrast Green Sneakers.jpeg",
+      "name": "Contrast Green Sneakers",
+      "category": "shoes",
+      "color": "green",
+      "price": "12",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": "polyester",
+      "Age": "2Y"
+    },
+    {
+      "id": 3,
+      "company": "MARC JACOBS",
+      "image": "./assets/images/produits/Pouch pocket set.jpg",
+      "name": "Pouch pocket set",
+      "category": "baby boy",
+      "color": "blue",
+      "price": "79",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": "Cotton",
+      "Age": "0-3M"
+    },
+    {
+      "id": 4,
+      "company": "ZARA",
+      "image": "./assets/images/produits/Waffle Textured Plush Set.jpg",
+      "name": "Waffle Textured Plush Set",
+      "category": "baby boy",
+      "color": "gray",
+      "price": "50",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": "Cotton",
+      "Age": "3-6M"
+    },
+    {
+      "id": 5,
+      "company": "ZARA",
+      "image": "./assets/images/produits/Palm Tree Set.jpg",
+      "name": "Palm Tree Set",
+      "category": "baby boy",
+      "color": "yellow",
+      "price": "12.99",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": "Cotton",
+      "Age": "0-6M"
+    },
+    {
+      "id": 6,
+      "company": "RALPH LAUАREN",
+      "image": "./assets/images/produits/2-piece Cotton Set.webp",
+      "name": "2-piece Cotton Set",
+      "category": "baby girl",
+      "color": "pink",
+      "price": "20.25",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": "silk",
+      "Age": "1Y"
+    },
+    {
+      "id": 7,
+      "company": "H&M",
+      "image": "./assets/images/produits/2-piece Set Light Green.webp",
+      "name": "2-piece Set Light Green",
+      "category": "baby girl",
+      "color": "green",
+      "price": "33.60",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": "Polyester",
+      "Age": "16-18M"
+    },
+    {
+      "id": 8,
+      "company": "ZARA",
+      "image": "../assets/images/produits/Hoodie with Surf Logo.jpeg",
+      "name": "Hoodie with Surf Logo",
+      "category": "boy clothes",
+      "color": "blue",
+      "price": "60",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": "cotton",
+      "Age": "2Y"
+    },
+    {
+      "id": 9,
+      "company": "CALVIN KLEIN",
+      "image": "../assets/images/produits/Quilted Jacket.jpg",
+      "name": "Quilted Jacket",
+      "category": "boy clothes",
+      "color": "brown",
+      "price": "70",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": " nylon",
+      "Age": "3-4Y"
+    },
+    {
+      "id": 10,
+      "company": "H&M",
+      "image": "../assets/images/produits/2-piece Set Light Pink.webp",
+      "name": "2-piece Set Light Pink",
+      "category": "girl clothes",
+      "color": "pink",
+      "price": "24.99",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": "Polyester",
+      "Age": "9-14Y"
+    },
+    {
+      "id": 11,
+      "company": "MARC JACOBS",
+      "image": "../assets/images/produits/Textured Dress with Frayed Detail.jpg",
+      "name": "Textured Dress with Frayed Detail",
+      "category": "girl clothes",
+      "color": "blue",
+      "price": "14.99",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": "Polyester",
+      "Age": "10Y"
+    },
+    {
+      "id": 12,
+      "company": "MARC JACOBS",
+      "image": "../assets/images/produits/Sweatshirt Kit + T-shirt + Bermudi Pack.jpg",
+      "name": "Sweatshirt Kit + T-shirt + Bermudi Pack",
+      "category": "boy clothes",
+      "color": "green",
+      "price": "24.99",
+      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle.",
+      "material": "cotton",
+      "Age": "9-14Y"
+    }
+  ]

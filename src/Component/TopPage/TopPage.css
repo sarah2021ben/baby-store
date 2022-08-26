@@ -1,0 +1,16 @@
+.top-page{
+    padding: 50px;
+    text-align: center;
+    background-image: url('http://localhost:3000/assets/images/top-page.jpg');
+    background-position: center;
+}
+.top-page h2{
+    font-size: 40px;
+    color: white;
+}
+.breadcrumb{
+    justify-content: center;
+}
+.breadcrumb a{
+    color: #DD7C5D;
+}

@@ -1,0 +1,59 @@
+.filter-box{
+    position: sticky;
+    top: 1rem;
+}
+.box{
+    padding-bottom: 15px;
+    margin-bottom:15px;
+    border-bottom: 1px dashed #ddd;
+}
+.box p{
+    font-size: 18px;
+    font-weight: 600;
+}
+.box ul{
+    list-style: none;
+    padding-left: 5px;
+    margin-bottom: 0;
+}
+.color-box > div{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 5px;
+    border: none;
+    background-color: unset;
+}
+
+.color.all{
+    
+    margin-bottom: 15px;
+}
+.pink input{
+    background-color: pink !important;
+}
+.green  input{
+    background-color: green !important;
+}
+.gray input{
+    background-color: gray !important;
+}
+.brown input{
+    background-color: rgb(110, 59, 59) !important;
+}
+.blue input{
+    background-color: rgb(20, 55, 119) !important;
+}
+.yellow input{
+    background-color: yellow !important;
+}
+.white input{
+    background-color: white !important;
+    border: 1px solid #ddd !important;
+}
+
+.color-box .form-check-input:checked {
+    background-color: unset; 
+    border-color: unset ; 
+}

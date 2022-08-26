@@ -1,0 +1,25 @@
+.row {
+    padding: 50px 0px;
+}
+.col.first-col{
+    margin-right: 30px;
+    border-right: 1px dashed;
+}
+.address-title{
+    margin-bottom: 40px;
+    color: #6c757d;
+}
+.address-box{
+    margin-bottom: 20px;
+}
+.address-box svg{
+    margin-right: 20px;
+    fill:#dd7c5d;
+}
+.btn-primary{
+    color: #dd7c5d;
+    border: 1px dashed #dd7c5d !important;
+    background-color: unset !important;
+}
+.btn-primary:hover{background-color: #dd7c5d !important;}
+.mapboxgl-ctrl-attrib-button{display: none;}

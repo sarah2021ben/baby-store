@@ -1,0 +1,38 @@
+.all-product{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+.single-product{
+    width: 31.33%;
+    border: 1px dashed #ddd;
+    margin-right: 2%;
+    margin-bottom: 30px;
+    cursor: pointer;
+    position: relative;
+}
+.img-product{        
+    width: 100%;
+    height: 300px;}
+
+.prod-info{
+    padding: 10px;
+}
+.prod-info .price{
+ color:#dd7c5d;
+ font-weight: 600;
+}
+
+.quick-action{
+    position: absolute;
+    top: 60%;
+    display: none;
+    left: 50%;
+    right: 50%;
+}
+
+.quick-action .btn-toolbar{
+    justify-content: center !important;
+}
+.single-product:hover .quick-action{ display: block;}

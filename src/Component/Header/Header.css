@@ -1,0 +1,39 @@
+.navbar{
+    box-shadow: 2px 3px 3px 0px #d5d5d533;
+    background-color:#FFFAEE ;
+}
+.navbar .menu a{
+   font-size: 18px;
+   padding: 0 1.5rem !important;
+   color: #969286;
+   
+}
+
+.navbar img{
+    width: 247px;
+}
+.icon{
+    margin: 0 10px;
+    cursor: pointer;
+    position: relative;
+}
+.icon a{
+    color: #585858;
+
+}
+.icon svg{
+   width:25px;
+   height: 25px;
+  
+}
+.icon .wishlist-counter{
+position: absolute;
+    top: -4px;
+    right: -7px;
+    background-color: red;
+    border-radius: 50%;
+    height: 16px;
+    width: 16px;
+    text-align: center;
+    color: white;
+    font-size: 11px;}

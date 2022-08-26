@@ -1,0 +1,46 @@
+.quick-container{
+    background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
+    bottom: 0;
+    height: 100vh;
+    left: 0;
+    opacity: 1;
+    overflow-y: auto;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    top: 0;
+    transition: all 0.5s ease 0s;
+    visibility: visible;
+    width: 100%;
+    z-index: 12000;
+     
+}
+.card-quick{
+    width: 800px;
+    height: calc(100% - 100px);
+    padding: 30px 10px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+    
+}
+.card-quick img{
+    width:100%
+}
+.close button{
+    background-color: unset;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    border: 1px dashed #dd7c5d;
+}
+.card-quick .btn-svg svg{
+    margin: 0px 10px 4px;
+}
+.card-quick .price{ 
+    font-size: 20px;
+    color: #dd7c5d;}
